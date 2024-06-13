@@ -3,7 +3,7 @@ The dataset of the paper "HiFi4G: High-Fidelity Human Performance Rendering via 
 
 ## HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting
 
-**[Yuheng Jiang](https://nowheretrix.github.io/), [Zhehao Shen](https://github.com/moqiyinlun), [Penghao Wang](https://github.com/AuthorityWang), Zhuo Su, [Yu Hong](https://github.com/xyi1023), [Yingliang Zhang](https://cn.linkedin.com/in/yingliangzhang), [Jingyi Yu](http://www.yu-jingyi.com/), [Lan Xu](http://xu-lan.com/).** 
+**[Yuheng Jiang](https://nowheretrix.github.io/), [Zhehao Shen](https://github.com/moqiyinlun), [Penghao Wang](https://authoritywang.github.io/), Zhuo Su, [Yu Hong](https://github.com/xyi1023), [Yingliang Zhang](https://cn.linkedin.com/in/yingliangzhang), [Jingyi Yu](http://www.yu-jingyi.com/), [Lan Xu](http://xu-lan.com/).** 
 
 *CVPR 2024*
 

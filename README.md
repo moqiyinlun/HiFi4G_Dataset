@@ -7,7 +7,7 @@ The dataset of the paper "HiFi4G: High-Fidelity Human Performance Rendering via 
 
 *CVPR 2024*
 
-[[Project Page]](https://nowheretrix.github.io/HiFi4G/) [[Paper Link]](https://arxiv.org/abs/2312.03461)
+[[Project Page]](https://nowheretrix.github.io/HiFi4G/) [[Paper Link]](https://arxiv.org/abs/2312.03461) [[Dataset Link]](https://cvrmkura-my.sharepoint.com/:f:/g/personal/sdjnes_cvrmkura_onmicrosoft_com/Eo47XO8GfxpPryq4LeZB-p8B28-jtGhuKq1FL5KUrAEyKw?e=x6ruk6)
 
 ![dataset_description](./imgs/gallery.png)
 
@@ -31,7 +31,7 @@ The overall file structure is as follows:
 ```
 ### Download our dataset
 
-The dataset is publicly accessible at https://cvrmkura-my.sharepoint.com/:f:/g/personal/sdjnes_cvrmkura_onmicrosoft_com/Eo47XO8GfxpPryq4LeZB-p8B28-jtGhuKq1FL5KUrAEyKw?e=x6ruk6 and everyone can use it for non-commercial purposes. If someone wishes to use this dataset for commercial purposes, please email Jiang Yuheng at (jiangyh2@shanghaitech.edu.cn) and CC Xu Lan at (xulan1@shanghaitech.edu.cn) to obtain our permission.
+The dataset is publicly accessible at [Link](https://cvrmkura-my.sharepoint.com/:f:/g/personal/sdjnes_cvrmkura_onmicrosoft_com/Eo47XO8GfxpPryq4LeZB-p8B28-jtGhuKq1FL5KUrAEyKw?e=x6ruk6) and you can use it for non-commercial purposes. If someone wishes to use this dataset for commercial purposes, please email Jiang Yuheng at (jiangyh2@shanghaitech.edu.cn) and CC Xu Lan at (xulan1@shanghaitech.edu.cn) to obtain our permission.
 ### Citation
 
 If you use this dataset for your research, please cite our paper:

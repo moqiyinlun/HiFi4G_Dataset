@@ -30,8 +30,7 @@ The overall file structure is as follows:
 │    └── colmap/sparse/0   - Camera extrinsics and intrinsics in Gaussian Splatting format.
 ```
 ### Download our dataset
-
-The dataset is publicly accessible at [Link](https://cvrmkura-my.sharepoint.com/:f:/g/personal/sdjnes_cvrmkura_onmicrosoft_com/Eo47XO8GfxpPryq4LeZB-p8B28-jtGhuKq1FL5KUrAEyKw?e=x6ruk6) and you can use it for non-commercial purposes. If someone wishes to use this dataset for commercial purposes, please email Jiang Yuheng at (jiangyh2@shanghaitech.edu.cn) and CC Xu Lan at (xulan1@shanghaitech.edu.cn) to obtain our permission.
+The dataset is publicly accessible at [Link](https://cvrmkura-my.sharepoint.com/:f:/g/personal/sdjnes_cvrmkura_onmicrosoft_com/Eo47XO8GfxpPryq4LeZB-p8B28-jtGhuKq1FL5KUrAEyKw?e=x6ruk6). It is authorized for non-commercial use only. For commercial use, please contact Yuheng Jiang (jiangyh2@shanghaitech.edu.cn) and cc Lan Xu(xulan1@shanghaitech.edu.cn) to obtain necessary permissions.
 ### Citation
 
 If you use this dataset for your research, please cite our paper:

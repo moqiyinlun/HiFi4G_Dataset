@@ -31,13 +31,7 @@ The overall file structure is as follows:
 ```
 ### Download our dataset
 
-The dataset is available on Onedrive and requires permission to access it. Please carefully read, fill in the [license form](./license.pdf), and send it to Yuheng Jiang (jiangyh2@shanghaitech.edu.cn) and cc Lan Xu(xulan1@shanghaitech.edu.cn) to request access.
-
-By requesting access to the content, you acknowledge that you have read this agreement, understand it, and agree to be bound by its terms and conditions. This agreement constitutes a legal and binding agreement between you and the provider of the protected system or content. The Virtual Reality and Visual Computing Center is the only owner of all intellectual property rights, including copyright, of HiFi4G Dataset, and VRVC reserves the right to terminate your access to the dataset at any time.
-
-Notes:
-
-Once the license agreement is signed, we will give access to the data.
+The dataset is publicly accessible at https://cvrmkura-my.sharepoint.com/:f:/g/personal/sdjnes_cvrmkura_onmicrosoft_com/Eo47XO8GfxpPryq4LeZB-p8B28-jtGhuKq1FL5KUrAEyKw?e=x6ruk6 and everyone can use it for non-commercial purposes. If someone wishes to use this dataset for commercial purposes, please email Jiang Yuheng at (jiangyh2@shanghaitech.edu.cn) and CC Xu Lan at (xulan1@shanghaitech.edu.cn) to obtain our permission.\
 
 ### Citation
 

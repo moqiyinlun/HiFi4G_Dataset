@@ -7,7 +7,7 @@ The dataset of the paper "HiFi4G: High-Fidelity Human Performance Rendering via 
 
 *CVPR 2024*
 
-[[Project Page]](https://nowheretrix.github.io/HiFi4G/) [[Paper Link]](https://arxiv.org/abs/2312.03461) [[Dataset Link]](https://cvrmkura-my.sharepoint.com/:f:/g/personal/sdjnes_cvrmkura_onmicrosoft_com/Eo47XO8GfxpPryq4LeZB-p8B28-jtGhuKq1FL5KUrAEyKw?e=x6ruk6)
+[[Project Page]](https://nowheretrix.github.io/HiFi4G/) [[Paper Link]](https://arxiv.org/abs/2312.03461) [[Dataset Link]](https://huggingface.co/datasets/moqiyinlun1/HiFiHuman)
 
 ![dataset_description](./imgs/gallery.png)
 
